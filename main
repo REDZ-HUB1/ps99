@@ -1,7 +1,7 @@
 !!! WARNING !!!
 BEWARE OF FAKES
 
-THIS OFFICIAL SCRIPT
+THIS OFFICIAL REDz Hub SCRIPT
 
 
-Script ----- 
+Script -----> loadstring(game:HttpGet("https://raw.githubusercontent.com/REDZ-HUB1/script/main/main"))()
